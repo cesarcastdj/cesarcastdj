@@ -3,7 +3,9 @@
 
 # 👋 Hi! I'm Cesar 🧑‍💻
 
-I'm passionate about software development and I'm always exploring new technologies to improve my projects. Currently, my main focus is [your area of specialization, e.g. web development, AI, etc.].
+> 🚀 Soy un apasionado del desarrollo de software, siempre en búsqueda de nuevas tecnologías para optimizar mis proyectos y crear soluciones innovadoras. Mi enfoque principal se centra en el desarrollo web y mobile, explorando herramientas modernas para ofrecer experiencias digitales de alto impacto.
+
+### Cesar-Dev
 
 ## 🔥 Languages I use
 ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen) 
@@ -14,5 +16,3 @@ I'm passionate about software development and I'm always exploring new technolog
 ![Node.js](https://img.shields.io/badge/Node.js-20%25-green) 
 ![React](https://img.shields.io/badge/React-40%25-lightblue) 
 **Among Others**
-
-##Cesar-Dev
