@@ -3,7 +3,7 @@
 
 # 👋 Hi! I'm Cesar 🧑‍💻
 
-> 🚀 Soy un apasionado del desarrollo de software, siempre en búsqueda de nuevas tecnologías para optimizar mis proyectos y crear soluciones innovadoras. Mi enfoque principal se centra en el desarrollo web y mobile, explorando herramientas modernas para ofrecer experiencias digitales de alto impacto.
+> 🚀 I'm passionate about software development, always looking for new technologies to optimize my projects and create innovative solutions. My main focus is web and mobile development, exploring modern tools to deliver high-impact digital experiences.
 
 ### Cesar-Dev
 
