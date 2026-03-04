@@ -1,6 +1,6 @@
 
 <!-- Banner de presentación -->
-<p align="center" style="border-radius 12px:">
+<p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1t_cRmi9dY3KV4NP3yX1lttq75KpQntzz" alt="Cesar Dev Banner" width="100%" />
 </p>
 
